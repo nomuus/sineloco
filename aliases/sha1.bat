@@ -1,0 +1,1 @@
+@fciv.exe -sha1 %* | findstr /r /i "^[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]* .*\"

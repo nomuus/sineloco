@@ -1,0 +1,1 @@
+@fciv.exe -md5 %* | findstr /r /i "^[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]* .*\"
